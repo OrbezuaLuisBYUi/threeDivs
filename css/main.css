@@ -1,0 +1,7 @@
+.div{
+    font-size: 20px;
+    background-color: chartreuse;
+}
+.div:hover{
+    font-weight: bold;
+}
